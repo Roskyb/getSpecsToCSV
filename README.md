@@ -23,7 +23,7 @@ You can get the next specs:
 
 To use this script you just need to run it (preferably as an administrator) and save the resulting csv in the drive that suits you.
 
-![Script Executing](https://imgur.com/a/Zi5gfNu)
+![Script Executing](https://i.imgur.com/7Y5Rhx7.png)
 
 
 If u need to get a complete CSV from the individual CSV you can perform this on CMD.
